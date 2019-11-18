@@ -1,0 +1,33 @@
+_repo: Maa-orja-Kertomus-Aleksanteri-Isen-hallituskaudelta-Wenajalla_60678
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Höcker, Oskar
+    aliases:
+    - Hocker, Oskar
+    - Hoecker, Oskar
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '33092'
+    url: http://www.gutenberg.org/2009/agents/33092
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Oskar_H%C3%B6cker
+    - https://de.wikipedia.org/wiki/Oskar_H%C3%B6cker_(Schauspieler,_1840)
+description: ''
+gutenberg_issued: '2019-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60678'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcsh 'Historical fiction'
+- !lcsh 'Russia -- History -- Alexander I, 1801-1825 -- Fiction'
+- GITenberg
+title: 'Maa-orja: Kertomus Aleksanteri I:sen hallituskaudelta Wenäjällä'
+url: http://www.gutenberg.org/ebooks/60678
